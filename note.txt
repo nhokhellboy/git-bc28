@@ -25,3 +25,7 @@
 10/ chuyển nhánh để code tiếp :
     lệnh : git checkout {branch_name}
     ví dụ: git checkout le-thanh-nam
+11/ kết hợp code của 2 nhánh:
+    note : nếu muốn kế hợp code vào master thì bạn phải đứng ở nhánh master
+    lệnh : git merge {branch_name}
+    ví dụ : git merge le-thanh-nam
