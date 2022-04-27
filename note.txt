@@ -12,3 +12,5 @@
     -lệnh : git remote add origin {url_github}
     ví dụ: git remote add origin https://github.com/nhokhellboy/git-bc28.git
     note: ******
+6/ kiểm tra xem add remote thành công chưa
+    lệnh : git remote
