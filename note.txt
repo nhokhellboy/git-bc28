@@ -14,3 +14,14 @@
     note: ******
 6/ kiểm tra xem add remote thành công chưa
     lệnh : git remote
+7/ tạo một clone của source code:
+    lệnh : git clone + {url_github}
+    ví dụ : git clone https://github.com/nhokhellboy/git-bc28.git
+8/ kiểm tra xem có bao nhiêu nhánh trên source code :
+    lệnh : git branch
+9/ tạo nhánh mới :
+    lệnh : git branch {name}
+    ví dụ : git branch le-thanh-nam
+10/ chuyển nhánh để code tiếp :
+    lệnh : git checkout {branch_name}
+    ví dụ: git checkout le-thanh-nam
